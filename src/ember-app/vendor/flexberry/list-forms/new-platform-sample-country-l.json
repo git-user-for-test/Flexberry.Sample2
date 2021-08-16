@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-sample-country-e",
+  "editForm": "new-platform-sample-country-e",
+  "external": false,
+  "caption": "Country",
+  "name": "NewPlatformSampleCountryL",
+  "className": "CountryL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sample-country",
+      "modelProjection": "CountryL"
+    }
+  ]
+}

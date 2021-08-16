@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-sample-book-e",
+  "editForm": "new-platform-sample-book-e",
+  "external": false,
+  "caption": "Book",
+  "name": "NewPlatformSampleBookL",
+  "className": "BookL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sample-book",
+      "modelProjection": "BookL"
+    }
+  ]
+}
