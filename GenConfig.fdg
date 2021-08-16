@@ -42,7 +42,7 @@
       },
       "PostgreSql": {
         "DiffSql": false,
-        "FullSql": true,
+        "FullSql": false,
         "Security": false,
         "AdminUser": false,
         "ConnectionString": null
@@ -54,7 +54,7 @@
       },
       "Oracle": {
         "DiffSql": false,
-        "FullSql": true,
+        "FullSql": false,
         "ConnectionString": null
       },
       "Access": {
