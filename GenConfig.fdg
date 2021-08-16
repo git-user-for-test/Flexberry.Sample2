@@ -69,7 +69,8 @@
     },
     "Metadata": {
       "Crp": false,
-      "Json": false
+      "Json": false,
+      "JDL": false
     }
   }
 }
