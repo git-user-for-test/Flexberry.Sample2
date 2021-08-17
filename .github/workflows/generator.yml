@@ -25,7 +25,6 @@ jobs:
 
       - name: Install EmberJS
         run: |
-          set -x
           yarn global add ember-cli@3.1.4
           yarn global add bower
           npm install -g bower
@@ -48,7 +47,6 @@ jobs:
         env:
             PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}      
         run: |
-          set -x
           export PRIVATE_KEY
           # Setup SSH agent
           export SSH_AUTH_SOCK=/tmp/ssh_agent.sock
@@ -59,7 +57,6 @@ jobs:
           ssh-add - <<< "${PRIVATE_KEY}"
       - name: Git commit
         run: |
-          set -x
           git config user.name "Flexberry-man"
           git config user.email "mail@flexberry.net"
           git add --all
@@ -73,7 +70,6 @@ jobs:
           # fi
       - name: Git push
         run: |
-          set -x
           SSH_AUTH_SOCK=/tmp/ssh_agent.sock
           export SSH_AUTH_SOCK;
           # Redirect any output to /dev/null to hide any sensitive credential data that might otherwise be exposed.
