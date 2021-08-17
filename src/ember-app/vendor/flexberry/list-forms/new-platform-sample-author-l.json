@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "new-platform-sample-author-e",
+  "editForm": "new-platform-sample-author-e",
+  "external": false,
+  "caption": "Author",
+  "name": "NewPlatformSampleAuthorL",
+  "className": "AuthorL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-sample-author",
+      "modelProjection": "AuthorL"
+    }
+  ]
+}
