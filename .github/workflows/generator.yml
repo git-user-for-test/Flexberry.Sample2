@@ -44,6 +44,7 @@ jobs:
           export FLEXBERRY_TOKEN
           mono ./gen/NewPlatform.Flexberry.Designer.CommandLine.0.1.0-beta07/tools/flexberry.exe ./GenConfig.fdg "${FLEXBERRY_TOKEN}"
       - name: Tune ssh-keys
+        if: always()
         env:
             PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}      
         run: |
@@ -56,6 +57,7 @@ jobs:
           ssh-agent -a $SSH_AUTH_SOCK #> /dev/null
           ssh-add - <<< "${PRIVATE_KEY}"
       - name: Git commit
+        if: always()
         run: |
           git config user.name "Flexberry-man"
           git config user.email "mail@flexberry.net"
@@ -69,6 +71,7 @@ jobs:
           #   git commit -m "Flexberry code generation"
           # fi
       - name: Git push
+        if: always()
         run: |
           SSH_AUTH_SOCK=/tmp/ssh_agent.sock
           export SSH_AUTH_SOCK;
