@@ -39,67 +39,67 @@
       <HintPath>System.Xml.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>../../../../../../../../src/Sample/packages/log4net.2.0.12/lib/net45/log4net.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/log4net.2.0.12/lib/net45/log4net.dll</HintPath>
     </Reference>
     <Reference Include="NewPlatform.Flexberry.LogService">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.LogService.2.0.0/lib/net45/NewPlatform.Flexberry.LogService.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.LogService.2.0.0/lib/net45/NewPlatform.Flexberry.LogService.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Spatial">
-      <HintPath>../../../../../../../../src/Sample/packages/Microsoft.Spatial.7.7.2/lib/net45/Microsoft.Spatial.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/Microsoft.Spatial.7.7.2/lib/net45/Microsoft.Spatial.dll</HintPath>
     </Reference>
     <Reference Include="Remotion.Linq">
-      <HintPath>../../../../../../../../src/Sample/packages/Remotion.Linq.2.2.0/lib/net45/Remotion.Linq.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/Remotion.Linq.2.2.0/lib/net45/Remotion.Linq.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.SharpZipLib">
-      <HintPath>../../../../../../../../src/Sample/packages/SharpZipLib.1.2.0/lib/net45/ICSharpCode.SharpZipLib.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/SharpZipLib.1.2.0/lib/net45/ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>../../../../../../../../src/Sample/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/System.Runtime.CompilerServices.Unsafe.4.5.2/lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.Threading.Tasks.Extensions">
-      <HintPath>../../../../../../../../src/Sample/packages/System.Threading.Tasks.Extensions.4.5.2/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/System.Threading.Tasks.Extensions.4.5.2/lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Abstractions">
-      <HintPath>../../../../../../../../src/Sample/packages/Unity.Abstractions.5.11.6/lib/net45/Unity.Abstractions.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/Unity.Abstractions.5.11.6/lib/net45/Unity.Abstractions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Container">
-      <HintPath>../../../../../../../../src/Sample/packages/Unity.Container.5.11.8/lib/net45/Unity.Container.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/Unity.Container.5.11.8/lib/net45/Unity.Container.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Configuration">
-      <HintPath>../../../../../../../../src/Sample/packages/Unity.Configuration.5.11.2/lib/net45/Unity.Configuration.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/Unity.Configuration.5.11.2/lib/net45/Unity.Configuration.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Business">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Business.ExternalLangDef">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.ExternalLangDef.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.ExternalLangDef.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Business.LINQProvider">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.LINQProvider.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.LINQProvider.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Business.LockService">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.LockService.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Business.LockService.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Collections">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Collections.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Collections.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.DataObject">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.DataObject.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.DataObject.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.FunctionalLanguage">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.FunctionalLanguage.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.FunctionalLanguage.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.Tools">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Tools.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.Tools.dll</HintPath>
     </Reference>
     <Reference Include="ICSSoft.STORMNET.UserDataTypes">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.UserDataTypes.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/ICSSoft.STORMNET.UserDataTypes.dll</HintPath>
     </Reference>
     <Reference Include="NewPlatform.Flexberry.ORM.CurrentUserService">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/NewPlatform.Flexberry.ORM.CurrentUserService.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/NewPlatform.Flexberry.ORM.CurrentUserService.dll</HintPath>
     </Reference>
     <Reference Include="NewPlatform.Flexberry.ORM.UnityFactory">
-      <HintPath>../../../../../../../../src/Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/NewPlatform.Flexberry.ORM.UnityFactory.dll</HintPath>
+      <HintPath>../../../../../../../../Sample/packages/NewPlatform.Flexberry.ORM.6.0.0/lib/net45/NewPlatform.Flexberry.ORM.UnityFactory.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
